@@ -1,2 +1,2 @@
 # mcsponge.github.io
-The Official McSponge Website
+The Official McSponge Website.
